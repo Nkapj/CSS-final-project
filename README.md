@@ -39,11 +39,13 @@ It allowed us to practice and apply CSS concepts such as Flexbox, Grid, and resp
 
 ## 📂 Project Structure
 ```
-/project-folder
-│── assets/       # Images and resources
+/css-final-project
+│── images/       # Screenshots and assets
+│── .vscode/      # VS Code settings
 │── index.html    # Main HTML file
 │── style.css     # CSS stylesheet
 │── README.md     # Project documentation
+│── settings.json # Live Server settings
 ```
 
 ---
@@ -101,11 +103,13 @@ Il nous a permis de pratiquer et d'appliquer des concepts CSS tels que Flexbox, 
 
 ## 📂 Structure du Projet
 ```
-/dossier-projet
-│── assets/       # Images et ressources
-│── index.html    # Fichier principal HTML
+/css-final-project
+│── images/       # Captures d'écran et ressources
+│── .vscode/      # Paramètres VS Code
+│── index.html    # Fichier HTML principal
 │── style.css     # Feuille de style CSS
 │── README.md     # Documentation du projet
+│── settings.json # Paramètres Live Server
 ```
 
 ---
