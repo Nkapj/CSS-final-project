@@ -1,7 +1,11 @@
 <h1 align="center"># 🌟 CSS Mastery Test Project 🌟
 
 ## 📸 Demo
-<h1 align="center"> ![Aperçu du projet](/preview.png)
+
+<p align="center">
+  <img src="preview.png" alt="Aperçu du projet" width="600">
+</p>
+ ![Aperçu du projet](/preview.png)
 
 ---
 
