@@ -1,4 +1,4 @@
-<h1 align="center"># 🌟 CSS Mastery Test Project 🌟
+<h1 align="center"> 🌟 CSS Mastery Test Project 🌟
 
 ## 📸 Demo
 
@@ -68,7 +68,7 @@ It allowed me to practice and apply CSS concepts such as Flexbox, Grid, and resp
 
 ---
 
-<h1 align="center"> # 🌟 Projet de Test Maîtrise CSS 🌟
+<h1 align="center"> 🌟 Projet de Test Maîtrise CSS 🌟
 
 
 ---
