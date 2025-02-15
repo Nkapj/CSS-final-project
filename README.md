@@ -1,9 +1,12 @@
-# 🌟 CSS Mastery Test Project 🌟
+<h1 align="center"># 🌟 CSS Mastery Test Project 🌟
 
 ## 📸 Demo
-![Aperçu du projet](/preview.png)
+<h1 align="center"> ![Aperçu du projet](/preview.png)
 
 ---
+
+
+
 
 ## 📖 Description
 This project was created as a way to test our knowledge after learning CSS fundamentals.
@@ -45,6 +48,13 @@ It allowed us to practice and apply CSS concepts such as Flexbox, Grid, and resp
 - 🔄 Improve responsive behavior for different screen sizes.
 - 🎨 Enhance styling for a more polished look.
 
+
+
+
+
+
+
+
 ---
 
 ## 👤 Author
@@ -52,12 +62,13 @@ It allowed us to practice and apply CSS concepts such as Flexbox, Grid, and resp
 
 ---
 
-# 🌟 Projet de Test Maîtrise CSS 🌟
+<h1 align="center"> # 🌟 Projet de Test Maîtrise CSS 🌟
 
-## 📸 Aperçu
-![Aperçu du projet]([./assets/apercu.png](https://nkapj.github.io/CSS-final-project/))
 
 ---
+
+
+
 
 ## 📖 Description
 Ce projet a été réalisé comme un moyen de tester nos connaissances après avoir appris les bases du CSS.
