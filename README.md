@@ -14,7 +14,7 @@
 
 ## 📖 Description
 This project was created as a way to test our knowledge after learning CSS fundamentals.
-It allowed us to practice and apply CSS concepts such as Flexbox, Grid, and responsive design.
+It allowed me to practice and apply CSS concepts such as Flexbox, Grid, and responsive design.
 
 ---
 
@@ -78,7 +78,7 @@ It allowed us to practice and apply CSS concepts such as Flexbox, Grid, and resp
 
 ## 📖 Description
 Ce projet a été réalisé comme un moyen de tester nos connaissances après avoir appris les bases du CSS.
-Il nous a permis de pratiquer et d'appliquer des concepts CSS tels que Flexbox, Grid et le design responsive.
+Il m'a permis de pratiquer et d'appliquer des concepts CSS tels que Flexbox, Grid et le design responsive.
 
 ---
 
