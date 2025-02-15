@@ -1,7 +1,7 @@
 # 🌟 CSS Mastery Test Project 🌟
 
 ## 📸 Demo
-![Aperçu du projet](assets/preview.png)
+![Aperçu du projet](/preview.png)
 
 ---
 
