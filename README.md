@@ -1,7 +1,7 @@
 # 🌟 CSS Mastery Test Project 🌟
 
 ## 📸 Demo
-![Aperçu du projet]([./assets/apercu.png](https://nkapj.github.io/CSS-final-project/))
+![Aperçu du projet](./assets/apercu.png](https://nkapj.github.io/CSS-final-project/)
 
 ---
 
